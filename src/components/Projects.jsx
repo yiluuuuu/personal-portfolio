@@ -10,7 +10,7 @@ function Projects() {
     const fetchProjects = async () => {
       try {
         setLoading(true);
-        const response = await fetch('https://api.github.com/users/temesgen-982/repos');
+        const response = await fetch('https://api.github.com/users/yiluuuuu/repos');
 
         if (!response.ok) {
           throw new Error('Failed to fetch projects');
