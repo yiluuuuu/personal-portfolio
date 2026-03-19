@@ -1,11 +1,10 @@
-import { useState, useEffect } from 'react'
+import { useState,} from 'react'
 import { motion } from 'framer-motion'
 import { FiDownload, FiArrowRight } from 'react-icons/fi'
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa'
 
 const Hero = () => {
-  const [showFirst, setShowFirst] = useState(true)
-  const [showSecond, setShowSecond] = useState(false)
+ 
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -28,7 +27,7 @@ const Hero = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a')
-    link.href = '/Biruk_Habte_Resume_.pdf'
+    link.href = '/yilkal_bewuketu"s_Resume_.pdf'
     link.download = 'Biruk_Habte_Resume_.pdf'
     document.body.appendChild(link)
     link.click()
