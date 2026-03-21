@@ -28,7 +28,7 @@ const Hero = () => {
   const handleDownloadCV = () => {
     const link = document.createElement('a')
     link.href = '/yilkal_bewuketu"s_Resume_.pdf'
-    link.download = 'Biruk_Habte_Resume_.pdf'
+    link.download = 'Yilkal_bewuketu_Resume_.pdf'
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
