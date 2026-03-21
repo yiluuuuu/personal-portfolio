@@ -26,8 +26,8 @@ const projects: Project[] = [
       'A full stack website for a digital magazine',
     image: livePhoto,
     tech: ['Svelte', 'Supabase', 'Github-actions'],
-    github: 'https://github.com/birukhabte/teen-magazin.git',
-    live: 'https://teen-ethiopia.vercel.app/',
+    github: 'https://github.com/yiluuuuu/Alpha-Market.git',
+    live: 'https://alpha-market-one.vercel.app/',
     category: 'fullstack',
   },
   {
