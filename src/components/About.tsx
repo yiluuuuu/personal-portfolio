@@ -84,7 +84,7 @@ const About = () => {
                 I am a passionate Full-Stack Developer with a solid background in the latest web technologies. I am skilled at developing scalable and high-performance applications that address real-world issues.
               </p>
               <p className="text-base text-gray-300 leading-relaxed mb-6">
-                As a developer with expertise in both frontend and backend development, I am able to deliver seamless user experiences while developing robust and maintainable code. I am always eager to learn new technologies and take up new challenges.
+                As a developer with expertise in both frontend and backend development, I am able to deliver seamless user experiences while developing robust and maintainable code. I am always eager to learn new technologies and take new challenges.
               </p>
               <p className="text-base text-gray-300 leading-relaxed">
                 Founder and administrator of Ethio Coders, a fast-growing Telegram community
