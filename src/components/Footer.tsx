@@ -38,7 +38,7 @@ const Footer = () => {
             {[
               { icon: <FaGithub />, href: 'https://github.com/yiluuuuu', label: 'GitHub' },
               { icon: <FaLinkedin />, href: 'https://www.linkedin.com', label: 'LinkedIn' },
-              { icon: <FaEnvelope />, href: 'mailto:yilkal.bewuketu-ug@aau.edu.et', label: 'Email' },
+              { icon: <FaEnvelope />, href: 'mailto:yilkalbewketu8@gmail.com', label: 'Email' },
             ].map((social) => (
               <motion.a
                 key={social.label}

@@ -27,7 +27,7 @@ const Hero = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a')
-    link.href = '/yilkal_bewuketu"s_Resume_.pdf'
+    link.href = '/yilkal_bewuketu_Resume_.pdf'
     link.download = 'Yilkal_bewuketu_Resume_.pdf'
     document.body.appendChild(link)
     link.click()
@@ -126,7 +126,7 @@ const Hero = () => {
               <FaGithub size={24} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/yilkal-bewuketu"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 btn-ghost rounded-lg hover:text-neon transition-all"

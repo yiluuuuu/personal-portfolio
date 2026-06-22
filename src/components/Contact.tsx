@@ -118,7 +118,7 @@ const Contact = () => {
                 </h3>
                 <div className="space-y-4">
                   <motion.a
-                    href="mailto:your.email@example.com"
+                    href="mailto:yilkalbewketu8@gmail.com"
                     className="flex items-center gap-4 glass-dark rounded-lg p-4 hover:bg-white/10 transition-all group"
                     whileHover={{ scale: 1.02, x: 4 }}
                   >
@@ -128,7 +128,7 @@ const Contact = () => {
                     <div>
                       <p className="text-sm text-gray-400">Email</p>
                       <p className="text-gray-200 group-hover:text-primary-400 transition-colors">
-                        Yilkal.bewuketu-ug@aau.edu.et
+                        yilkalbewketu8@gmail.com
 
                       </p>
                     </div>
@@ -173,7 +173,7 @@ const Contact = () => {
                 <div className="flex gap-4">
                   {[
                     { icon: <FaGithub />, href: 'https://github.com/yiluuuuu', label: 'GitHub' },
-                    { icon: <FaLinkedin />, href: 'https://linkedin.com', label: 'LinkedIn' },
+                    { icon: <FaLinkedin />, href: 'https://www.linkedin.com', label: 'LinkedIn' },
 
                   ].map((social) => (
                     <motion.a
