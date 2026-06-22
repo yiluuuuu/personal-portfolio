@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { FiDownload, FiArrowRight } from 'react-icons/fi'
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa'
 
+// Updated resume CV download
 const Hero = () => {
  
   const containerVariants = {
